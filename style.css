@@ -1,0 +1,64 @@
+.container {
+  margin-bottom: 100px;
+}
+
+.orange-org {
+  background-color: #feeae9;
+  border-radius: 10px;
+}
+.buy-now-button {
+  background-image: linear-gradient(
+    to bottom,
+    hsl(336, 100%, 67%) 0%,
+    #ff136f 100%
+  );
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+}
+.cat1 {
+  color: #feeae9;
+  background-image: linear-gradient(red, yellow);
+}
+.cat2 {
+  color: #feeae9;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.cat3 {
+  color: white;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+}
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: grey;
+}
+.fff {
+  text-align: center;
+  color: grey;
+}
